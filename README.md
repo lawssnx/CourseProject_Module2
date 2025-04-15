@@ -10,3 +10,5 @@
 - Normalize.css
 - Fontello
 - Google Fonts (Inter)
+
+Запуск сайту - https://lawssnx.github.io/CourseProject_Module2/src/
